@@ -1,0 +1,16 @@
+{
+  "name": "fount-frontend-matrix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "sass scss/main.scss:css/style.css scss/clientBlueTheme.scss:css/clientBlueTheme.css scss/clientGreenTheme.scss:css/clientGreenTheme.css scss/clientPurpleTheme.scss:css/clientPurpleTheme.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.71.1"
+  }
+}
